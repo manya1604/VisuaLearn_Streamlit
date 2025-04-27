@@ -1,11 +1,11 @@
-# **ModelLens**  
+# **VisuaLearn**  
 🚀 *A Clear View Into AI Predictions and Accuracy*  
-Live Demo - [Click Here](https://modellens.streamlit.app/)
+Live Demo - [Click Here](https://visualearnapp-r7gkwrhsjdkmdsmfqrjwun.streamlit.app/shapley_values)
 
 ---  
 
 ## 📌 **Overview**  
-**ModelLens** is a powerful **Streamlit-based** application designed to **interpret machine learning models** using **SHAP (SHapley Additive exPlanations) values**. It provides a **clear and interactive way** to understand how models make predictions by analyzing **feature importance, impact, and accuracy**.  
+**VisuaLearn** is a powerful **Streamlit-based** application designed to **interpret machine learning models** using **SHAP (SHapley Additive exPlanations) values**. It provides a **clear and interactive way** to understand how models make predictions by analyzing **feature importance, impact, and accuracy**.  
 
 This project bridges the gap between complex AI models and human interpretability, enabling users to explore **model behavior, visualize feature contributions, and evaluate performance**—all in an intuitive interface.  
 
@@ -37,7 +37,7 @@ This project bridges the gap between complex AI models and human interpretabilit
 ## 📂 **Project Structure**  
 
 ```
-ModelLens/
+VisuaLearn/
 │── models/                 # Folder for storing trained models (.pkl)
 │── datasets/               # Folder for dataset files (.csv)
 │── app.py                  # Main Streamlit app
@@ -64,8 +64,8 @@ ModelLens/
 
 ### 🔧 **Setup the Environment**  
 ```bash
-git clone https://github.com/your-username/ModelLens.git
-cd ModelLens
+git clone https://github.com/your-username/VisuaLearn_streamlit.git
+cd VisuaLearn
 pip install -r requirements.txt
 ```
 
@@ -97,7 +97,7 @@ Evaluates how well the model performs on the selected dataset.
 
 ---
 
-## 🤖 **Why Use ModelLens?**  
+## 🤖 **Why Use VisuaLearn?**  
 
 🔍 **Improve Model Transparency** – Understand AI decision-making.  
 📊 **Interactive Visualizations** – SHAP-powered insights at your fingertips.  
@@ -105,21 +105,21 @@ Evaluates how well the model performs on the selected dataset.
 ⚡ **User-Friendly Interface** – No coding required, just upload and analyze!  
 
 ---
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/1.png)
+![img](home.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/2.png)
+![img](home1.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/3.png)
+![img](explore.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/4.png)
+![img](train.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/5.png)
+![img](ai.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/6.png)
+![img](shap.png)
 
 ## **Deployed on streamlit community cloud** 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/7.png)
+![img](cloud.png)
 
-🚀 **Explore, Explain, and Evaluate AI with ModelLens!** 🎯
+🚀 **Explore, Explain, and Evaluate AI with VisuaLearn!** 🎯
 
 
